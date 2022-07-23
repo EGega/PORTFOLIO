@@ -78,6 +78,7 @@ body {
   margin-top: 0;
   font-size: 50px;
   z-index: 1;
+  text-align: center;
 }
 .main-page h2 {
   font-size: 40px;
@@ -126,9 +127,21 @@ p {
 
 /* Mobile */
 
+
 @media screen and (max-width: 600px) {
+
+  .navigation ul li:hover {
+    padding: 2px;
+    background-color: #ff3737;
+  }
+
+  .navigation ul li {
+    padding: 2px;
+  }
+
   .navigation ul {
     font-size: 12px;
+    gap: 5px;
   }
 
   .name h2 {
