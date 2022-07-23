@@ -101,15 +101,23 @@ a:active {
 }
 
 #about {
-  background-color: blue;
+  background: url("/aboutus.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 }
 
 #contact {
-  background-color: red;
+  background: url("/contact.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
 }
 
 #services {
-  background-color: rgb(109, 128, 0);
+  background: url("/text-sign-showing-our-services-conceptual-photo-occupation-function-serving-intangible-products-male-human-business-159049867.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #about,
