@@ -48,7 +48,7 @@ body {
 }
 
 .surname {
-  color: #ff3737;
+  color: #375cff;
 }
 
 /* This is the style of the main page */
@@ -76,7 +76,7 @@ body {
 
 .main-page h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 60px;
   z-index: 1;
 }
 .main-page h2 {
@@ -108,7 +108,7 @@ a:active {
 }
 
 #services {
-  background-color: purple;
+  background-color: rgb(109, 128, 0);
 }
 
 #about,
